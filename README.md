@@ -76,6 +76,10 @@ QUEUE is Empty.
 ## 👨‍💻 Author
 Developed by Ziraddin — passionate about learning data structures and building projects in Python.
 
+## DEMO VIDEO
+
+https://github.com/user-attachments/assets/55bdc47d-5685-4681-8408-06c5c909640f
+
 
 
 
